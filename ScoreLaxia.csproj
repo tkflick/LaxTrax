@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E2834A29-1A62-4783-91A2-911230C2F39D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ScoreLaxia</RootNamespace>
+    <AssemblyName>ScoreLaxia</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddNewTeam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewTeam.Designer.cs">
+      <DependentUpon>AddNewTeam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App_Code\common.cs" />
+    <Compile Include="App_Code\dataOperations.cs" />
+    <Compile Include="App_Code\logStats.cs" />
+    <Compile Include="App_Data\LaxTraxDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LaxTraxDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="faceoff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="faceoff.Designer.cs">
+      <DependentUpon>faceoff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forcedTurnover.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forcedTurnover.Designer.cs">
+      <DependentUpon>forcedTurnover.cs</DependentUpon>
+    </Compile>
+    <Compile Include="foViolation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="foViolation.Designer.cs">
+      <DependentUpon>foViolation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameSetup.Designer.cs">
+      <DependentUpon>GameSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="goal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="goal.Designer.cs">
+      <DependentUpon>goal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="goalieSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="goalieSetup.Designer.cs">
+      <DependentUpon>goalieSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Groundball.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Groundball.Designer.cs">
+      <DependentUpon>Groundball.cs</DependentUpon>
+    </Compile>
+    <Compile Include="numpad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="numpad.Designer.cs">
+      <DependentUpon>numpad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="penalty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="penalty.Designer.cs">
+      <DependentUpon>penalty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlayerAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlayerAdmin.Designer.cs">
+      <DependentUpon>PlayerAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="shot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="shot.Designer.cs">
+      <DependentUpon>shot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="teamClearFail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teamClearFail.Designer.cs">
+      <DependentUpon>teamClearFail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teamClearSuccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teamClearSuccess.Designer.cs">
+      <DependentUpon>teamClearSuccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="turnover.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turnover.Designer.cs">
+      <DependentUpon>turnover.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddNewTeam.resx">
+      <DependentUpon>AddNewTeam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="faceoff.resx">
+      <DependentUpon>faceoff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forcedTurnover.resx">
+      <DependentUpon>forcedTurnover.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="foViolation.resx">
+      <DependentUpon>foViolation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameSetup.resx">
+      <DependentUpon>GameSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="goal.resx">
+      <DependentUpon>goal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="goalieSetup.resx">
+      <DependentUpon>goalieSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Groundball.resx">
+      <DependentUpon>Groundball.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="numpad.resx">
+      <DependentUpon>numpad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="penalty.resx">
+      <DependentUpon>penalty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlayerAdmin.resx">
+      <DependentUpon>PlayerAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="shot.resx">
+      <DependentUpon>shot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teamClearFail.resx">
+      <DependentUpon>teamClearFail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teamClearSuccess.resx">
+      <DependentUpon>teamClearSuccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="turnover.resx">
+      <DependentUpon>turnover.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="App_Data\LaxTraxDataSet.xsc">
+      <DependentUpon>LaxTraxDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="App_Data\LaxTraxDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LaxTraxDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="App_Data\LaxTraxDataSet.xss">
+      <DependentUpon>LaxTraxDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Data\GameType.xml" />
+    <Content Include="App_Data\LaxTrax.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="App_Data\roster.xml" />
+    <Content Include="App_Data\stats.xml" />
+    <Content Include="images\lacrosseSticks.png" />
+    <Content Include="images\TimerStart.png" />
+    <Content Include="images\TimerStop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="buttons\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

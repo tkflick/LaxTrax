@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<gamestats>
+  <game game_id="1">
+    <team name="Flower Mound Force">
+      <player jersey_number="27">
+        <shots></shots>
+        <goals></goals>
+        <assists></assists>
+        <points></points>
+        <turnovers></turnovers>
+        <groundballs></groundballs>
+        <saves></saves>
+        <penalties></penalties>
+        <penalty_minutes></penalty_minutes>
+      </player>
+    </team>
+  </game>
+  <game game_id="2">
+    <team name="Flower Mound Force">
+      <player jersey_number="27">
+        <shots></shots>
+        <goals></goals>
+        <assists></assists>
+        <points></points>
+        <turnovers></turnovers>
+        <groundballs></groundballs>
+        <saves></saves>
+        <penalties></penalties>
+        <penalty_minutes></penalty_minutes>
+      </player>
+    </team>
+  </game>
+  <game game_id="3">
+    <team name="Flower Mound Force">
+      <player jersey_number="27">
+        <shots></shots>
+        <goals></goals>
+        <assists></assists>
+        <points></points>
+        <turnovers></turnovers>
+        <groundballs></groundballs>
+        <saves></saves>
+        <penalties></penalties>
+        <penalty_minutes></penalty_minutes>
+      </player>
+    </team>
+  </game>
+</gamestats>

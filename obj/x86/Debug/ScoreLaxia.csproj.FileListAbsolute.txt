@@ -1,0 +1,106 @@
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\bin\Debug\ScoreLaxia.exe
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\bin\Debug\ScoreLaxia.pdb
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.Main.resources
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.Properties.Resources.resources
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.csproj.GenerateResource.Cache
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.exe
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.pdb
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.exe
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.pdb
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\bin\Debug\ScoreLaxia.exe
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\bin\Debug\ScoreLaxia.pdb
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.Main.resources
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.Properties.Resources.resources
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.Splash.resources
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.GameSetup.resources
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.GameSetup.resources
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.Splash.resources
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.faceoff.resources
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.numpad.resources
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.faceoff.resources
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.numpad.resources
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\bin\Debug\App_Data\LaxTrax.accdb
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\bin\Debug\ScoreLaxia.exe.config
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\bin\Debug\ScoreLaxia.exe.config
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\bin\Debug\App_Data\LaxTrax.accdb
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.Groundball.resources
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.foViolation.resources
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.frmShot.resources
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.goalieSetup.resources
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.foViolation.resources
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.goalieSetup.resources
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.Groundball.resources
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.frmShot.resources
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.goal.resources
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.forcedTurnover.resources
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.turnover.resources
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.teamClearFail.resources
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.teamClearSuccess.resources
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.forcedTurnover.resources
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.goal.resources
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.teamClearFail.resources
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.teamClearSuccess.resources
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.turnover.resources
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.penalty.resources
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.AddNewTeam.resources
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.penalty.resources
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.AddNewTeam.resources
+C:\Users\Tim\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.PlayerAdmin.resources
+C:\Users\tflick\Dropbox\iPhone Apps\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.PlayerAdmin.resources
+C:\_JUNK\ScoreLaxia\ScoreLaxia\bin\Debug\ScoreLaxia.exe.config
+C:\_JUNK\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.exe
+C:\_JUNK\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.pdb
+C:\_JUNK\ScoreLaxia\ScoreLaxia\bin\Debug\App_Data\LaxTrax.accdb
+C:\_JUNK\ScoreLaxia\ScoreLaxia\bin\Debug\ScoreLaxia.exe
+C:\_JUNK\ScoreLaxia\ScoreLaxia\bin\Debug\ScoreLaxia.pdb
+C:\_JUNK\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.csprojResolveAssemblyReference.cache
+C:\_JUNK\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.AddNewTeam.resources
+C:\_JUNK\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.faceoff.resources
+C:\_JUNK\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.forcedTurnover.resources
+C:\_JUNK\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.foViolation.resources
+C:\_JUNK\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.GameSetup.resources
+C:\_JUNK\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.goal.resources
+C:\_JUNK\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.goalieSetup.resources
+C:\_JUNK\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.Groundball.resources
+C:\_JUNK\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.Main.resources
+C:\_JUNK\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.numpad.resources
+C:\_JUNK\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.penalty.resources
+C:\_JUNK\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.PlayerAdmin.resources
+C:\_JUNK\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.Properties.Resources.resources
+C:\_JUNK\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.frmShot.resources
+C:\_JUNK\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.Splash.resources
+C:\_JUNK\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.teamClearFail.resources
+C:\_JUNK\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.teamClearSuccess.resources
+C:\_JUNK\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.turnover.resources
+C:\_JUNK\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.csproj.GenerateResource.Cache
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\bin\Debug\App_Data\LaxTrax.accdb
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\bin\Debug\ScoreLaxia.exe.config
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\bin\Debug\ScoreLaxia.exe
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\bin\Debug\ScoreLaxia.pdb
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.csproj.AssemblyReference.cache
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.AddNewTeam.resources
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.faceoff.resources
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.forcedTurnover.resources
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.foViolation.resources
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.GameSetup.resources
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.goal.resources
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.goalieSetup.resources
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.Groundball.resources
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.Main.resources
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.numpad.resources
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.penalty.resources
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.PlayerAdmin.resources
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.Properties.Resources.resources
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.frmShot.resources
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.Splash.resources
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.teamClearFail.resources
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.teamClearSuccess.resources
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.turnover.resources
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.csproj.GenerateResource.cache
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.csproj.CoreCompileInputs.cache
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.exe
+D:\SRC\~Software\ScoreLaxia\ScoreLaxia\obj\x86\Debug\ScoreLaxia.pdb
